@@ -8,7 +8,7 @@
     3. /generate {your prompt} - to make image.         Example: /generate fox
     4. /dres {your prompt} - to design your research.   Example: /dres This study investigated the effects of microgravity on 20 mice for 38 days on the ISS.
 ### ❗If the bot does not respond, wait 2-3 minutes before "reasking"❗
- 2. Site(only for PC!): https://tora.serveo.net (Will work after 10 september)
+ 2. Site(only for PC!): https://tora.serveo.net
     1. Library - An example of how our AI can classify and facilitate project description
     2. Button "AI" - Opens a menu through which you can ask the AI ​​a question.
        1. After clicking, it may seem like nothing happens, but the AI ​​takes about a minute to create a response
