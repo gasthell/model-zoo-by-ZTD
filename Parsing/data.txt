@@ -1,0 +1,80 @@
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-654/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-654">Toward countering muscle and bone loss with spaceflight: GSK3 as a potential target (Tibia, RR9 and HLU, MicroCT and DXA Scanning)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">spaceflight, muscle and bone loss, GSK3, tibia, RR9 and HLU, microCT and DXA scanning</p>
+            <p>The study OSD-654 is about the effects of microgravity on the human immune system and the risk of infection during long-duration spaceflight.</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-660/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-660">Toward countering muscle and bone loss with spaceflight: GSK3 as a potential target (Tibialis Anterior, RR9, Western Blot)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">GSK3, spaceflight, muscle and bone loss, hindlimb unloading, ISS</p>
+            <p>The study OSD-660 is about the effects of long-duration spaceflight on the human brain structure and function.</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-628/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-628">Characterization of Biofilm Formation, Growth, and Gene Expression on Different Materials and Environmental Conditions in Microgravity (Morphology of Penicillium rubens biofilms)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">Space Biofilms, Biofilm formation, Gene expression, Microgravity, Fungal species</p>
+            <p>The study OSD-628 is about the effects of spaceflight on the human immune system and latent viral reactivation.</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-618/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-618">Combined space stressors induce independent behavioral deficits predicted by early peripheral blood monocytes (Behavioral Assays)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">GCRsim (Galactic Cosmic Ray Simulation), behavioral and cognitive performance, immune cell populations, blood monocytes, spatial memory deficits, novel object recognition deficits, passive avoidance alterations, social isolation, hindlimb unloading</p>
+            <p>The study OSD-618 is about the effects of long-duration spaceflight on the human brain using magnetic resonance imaging (MRI).</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-627/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-627">Characterization of Biofilm Formation, Growth, and Gene Expression on Different Materials and Environmental Conditions in Microgravity (Morphology of Pseudomonas aeruginosa biofilms)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">space biofilms, biofilm formation, gene expression, microgravity, fungal species</p>
+            <p>The study OSD-627 is about the effects of microgravity on the growth and development of plants, specifically Arabidopsis thaliana.🌱</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-554/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-554">Characterization of Biofilm Formation, Growth, and Gene Expression on Different Materials and Environmental Conditions in Microgravity (Gene expression of Pseudomonas aeruginosa biofilms)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">biofilm, microgravity, gene expression, Pseudomonas aeruginosa, materials, environmental conditions</p>
+            <p>The study OSD-554 is about the effects of microgravity on the human immune system and the risk of infection during long-duration spaceflight.</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-640/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-640">Combined space stressors induce independent behavioral deficits predicted by early peripheral blood monocytes (flow cytometry)</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">space stressors, behavioral deficits, peripheral blood monocytes, GCRsim exposure, flow cytometry</p>
+            <p>The study OSD-640 is about the effects of microgravity on the growth and development of plants, specifically Arabidopsis thaliana.🌱</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-594/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-594">Advancing the automation of plant nucleic acid extraction for rapid diagnosis of plant diseases in space</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">plant_diseases, nucleic_acid_extraction, space, automation, diagnosis</p>
+            <p>The study OSD-594 is about the effects of microgravity on the human immune system and the risk of infection during long-duration spaceflight.</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-613/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-613">Single nuclei transcriptomics and epigenomics of brain tissue from mice flown on the RRRM-2 mission</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">single-nuclei, transcriptomics, epigenomics, brain-tissue, mice, RRRM-2, space-mission</p>
+            <p>The study OSD-613 is about the effects of long-duration spaceflight on the human brain using magnetic resonance imaging (MRI).</p>
+        </div>
+    </div>
+    <div style="display: flex;">
+        <img src="https://osdr.nasa.gov/geode-py/ws/studies/OSD-612/image" class="brain">
+        <div style="margin-left: 10vmin; width: 50%;">
+            <h1 href="https://osdr.nasa.gov/bio/repo/data/studies/OSD-612">Single nuclei transcriptomics and epigenomics of brain tissue from mice flown on the RR-10 mission</h1>
+            <p style="font-size: 2.5vmin; font-style: italic;">transcriptomics, epigenomics, brain tissue, mice, RR-10 mission, NASA.</p>  
+            <p>The study OSD-612 is about the effects of long-duration spaceflight on the human brain and cognition.</p>    
+        </div>
+    </div>
